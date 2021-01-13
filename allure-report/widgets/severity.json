@@ -1,0 +1,41 @@
+[ {
+  "uid" : "151949aa91d32153",
+  "name" : "Realize o login na landing page",
+  "time" : {
+    "start" : 1610563487562,
+    "stop" : 1610563491406,
+    "duration" : 3844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca72089c854d7f89",
+  "name" : "Ordenar produtos por valores crescente",
+  "time" : {
+    "start" : 1610563492164,
+    "stop" : 1610563492854,
+    "duration" : 690
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1e01886c75cb488",
+  "name" : "devem poder realizar um login no sistema",
+  "time" : {
+    "start" : 1610563491414,
+    "stop" : 1610563491765,
+    "duration" : 351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0c19cc80cec0cba",
+  "name" : "devem poder adicionar item ao carrinho",
+  "time" : {
+    "start" : 1610563491776,
+    "stop" : 1610563492156,
+    "duration" : 380
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
